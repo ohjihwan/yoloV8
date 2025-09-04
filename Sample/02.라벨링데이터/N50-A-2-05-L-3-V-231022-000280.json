@@ -1,0 +1,249 @@
+{
+    "info": {
+        "GetDateTime": "202310221647",
+        "ClassID": "A-2-05-L-3",
+        "ResultOfGrowthLevel": "Low",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "홍콩야자",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "105",
+            "uproot": "81"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "3.38"
+            },
+            {
+                "date": "20230829",
+                "thickness": "3.5"
+            },
+            {
+                "date": "20230905",
+                "thickness": "3.5"
+            },
+            {
+                "date": "20230912",
+                "thickness": "3.68"
+            },
+            {
+                "date": "20230919",
+                "thickness": "3.76"
+            },
+            {
+                "date": "20230926",
+                "thickness": "3.94"
+            },
+            {
+                "date": "20231003",
+                "thickness": "4.12"
+            },
+            {
+                "date": "20231010",
+                "thickness": "4.37"
+            },
+            {
+                "date": "20231017",
+                "thickness": "4.64"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "100.955"
+            },
+            {
+                "date": "20230829",
+                "height": "101.855"
+            },
+            {
+                "date": "20230905",
+                "height": "101.975"
+            },
+            {
+                "date": "20230912",
+                "height": "104.02"
+            },
+            {
+                "date": "20230919",
+                "height": "105.955"
+            },
+            {
+                "date": "20230926",
+                "height": "108.0"
+            },
+            {
+                "date": "20231003",
+                "height": "110.045"
+            },
+            {
+                "date": "20231010",
+                "height": "101.8"
+            },
+            {
+                "date": "20231017",
+                "height": "93.23"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.1",
+        "Co2": "235",
+        "Quantum": "17",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "25.1",
+        "HighSoilHumi": "37.1",
+        "HighEC": "200",
+        "HighPH": "5.35",
+        "LowSoilTemp": "25.6",
+        "LowSoilHumi": "65.5",
+        "LowSoilEC": "380",
+        "LowSoilPH": "4.58",
+        "AirHumidity": "45.0"
+    },
+    "watering": {
+        "IrrigationState": "미관수",
+        "WateringTime": "202310221647",
+        "AmtIrrigation": "0"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221647",
+        "ImageSize": "5368760",
+        "ImageName": "N50-A-2-05-L-3-V-231022-000280.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-2-05-L-3",
+            "plant_name": "홍콩야자",
+            "plant_polygon": [
+                1246,
+                1170,
+                1221,
+                1186,
+                1219,
+                1191,
+                1218,
+                1198,
+                1209,
+                1201,
+                1202,
+                1210,
+                1197,
+                1216,
+                1192,
+                1225,
+                1160,
+                1307,
+                1145,
+                1353,
+                1145,
+                1414,
+                1153,
+                1422,
+                1166,
+                1420,
+                1182,
+                1414,
+                1206,
+                1401,
+                1250,
+                1370,
+                1299,
+                1326,
+                1319,
+                1297,
+                1328,
+                1279,
+                1334,
+                1261,
+                1334,
+                1241,
+                1324,
+                1241,
+                1320,
+                1234,
+                1325,
+                1228,
+                1332,
+                1225,
+                1334,
+                1220,
+                1329,
+                1206,
+                1305,
+                1190,
+                1282,
+                1176,
+                1259,
+                1169
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "A-2-05-L-3",
+            "plant_name": "홍콩야자",
+            "plant_polygon": [
+                1207,
+                1989,
+                1184,
+                1985,
+                1164,
+                1991,
+                1123,
+                2010,
+                1103,
+                2020,
+                1083,
+                2031,
+                1044,
+                2061,
+                1004,
+                2100,
+                983,
+                2123,
+                964,
+                2144,
+                957,
+                2166,
+                955,
+                2182,
+                956,
+                2190,
+                962,
+                2197,
+                971,
+                2202,
+                990,
+                2201,
+                1020,
+                2196,
+                1075,
+                2174,
+                1128,
+                2144,
+                1178,
+                2094,
+                1203,
+                2062,
+                1217,
+                2037,
+                1220,
+                2003
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

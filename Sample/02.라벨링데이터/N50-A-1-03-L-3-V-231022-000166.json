@@ -1,0 +1,253 @@
+{
+    "info": {
+        "GetDateTime": "202310221632",
+        "ClassID": "A-1-03-L-3",
+        "ResultOfGrowthLevel": "Low",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "금전수",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "115",
+            "uproot": "196"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "6.996"
+            },
+            {
+                "date": "20230829",
+                "thickness": "7.116"
+            },
+            {
+                "date": "20230905",
+                "thickness": "7.116"
+            },
+            {
+                "date": "20230912",
+                "thickness": "7.304"
+            },
+            {
+                "date": "20230919",
+                "thickness": "7.392"
+            },
+            {
+                "date": "20230926",
+                "thickness": "7.58"
+            },
+            {
+                "date": "20231003",
+                "thickness": "7.768"
+            },
+            {
+                "date": "20231010",
+                "thickness": "7.87"
+            },
+            {
+                "date": "20231017",
+                "thickness": "8.4"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "192.909"
+            },
+            {
+                "date": "20230829",
+                "height": "193.809"
+            },
+            {
+                "date": "20230905",
+                "height": "193.929"
+            },
+            {
+                "date": "20230912",
+                "height": "196.656"
+            },
+            {
+                "date": "20230919",
+                "height": "199.273"
+            },
+            {
+                "date": "20230926",
+                "height": "202.0"
+            },
+            {
+                "date": "20231003",
+                "height": "203.727"
+            },
+            {
+                "date": "20231010",
+                "height": "204.9"
+            },
+            {
+                "date": "20231017",
+                "height": "205.78"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.3",
+        "Co2": "234",
+        "Quantum": "16",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "25.2",
+        "HighSoilHumi": "37.3",
+        "HighEC": "200",
+        "HighPH": "7.1",
+        "LowSoilTemp": "25.7",
+        "LowSoilHumi": "54.1",
+        "LowSoilEC": "290",
+        "LowSoilPH": "5.7",
+        "AirHumidity": "43.6"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202310221632",
+        "AmtIrrigation": "33"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221632",
+        "ImageSize": "5936960",
+        "ImageName": "N50-A-1-03-L-3-V-231022-000166.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-1-03-L-3",
+            "plant_name": "금전수",
+            "plant_polygon": [
+                1419,
+                919,
+                1490,
+                950,
+                1522,
+                999,
+                1579,
+                1038,
+                1598,
+                1067,
+                1647,
+                968,
+                1669,
+                914,
+                1667,
+                901,
+                1650,
+                893,
+                1628,
+                882,
+                1617,
+                859,
+                1645,
+                842,
+                1647,
+                804,
+                1662,
+                742,
+                1707,
+                676,
+                1769,
+                644,
+                1755,
+                623,
+                1705,
+                589,
+                1683,
+                574,
+                1641,
+                578,
+                1582,
+                608,
+                1549,
+                637,
+                1515,
+                684,
+                1471,
+                752,
+                1435,
+                842
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "A-1-03-L-3",
+            "plant_name": "금전수",
+            "plant_polygon": [
+                698,
+                2044,
+                666,
+                2109,
+                655,
+                2145,
+                654,
+                2181,
+                665,
+                2208,
+                675,
+                2251,
+                680,
+                2265,
+                711,
+                2262,
+                769,
+                2260,
+                810,
+                2253,
+                861,
+                2231,
+                882,
+                2219,
+                904,
+                2197,
+                923,
+                2163,
+                936,
+                2133,
+                942,
+                2110,
+                926,
+                2109,
+                910,
+                2105,
+                896,
+                2095,
+                892,
+                2082,
+                893,
+                2058,
+                910,
+                2043,
+                900,
+                2037,
+                892,
+                2030,
+                884,
+                2016,
+                854,
+                1995,
+                827,
+                1984,
+                792,
+                1990,
+                747,
+                2005,
+                745,
+                2007
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

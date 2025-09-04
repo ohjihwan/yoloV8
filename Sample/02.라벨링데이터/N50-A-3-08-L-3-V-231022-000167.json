@@ -1,0 +1,217 @@
+{
+    "info": {
+        "GetDateTime": "202310221639",
+        "ClassID": "A-3-08-L-3",
+        "ResultOfGrowthLevel": "DIE",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "보스턴고사리",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "100",
+            "uproot": "118"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "0.565"
+            },
+            {
+                "date": "20230829",
+                "thickness": "0.685"
+            },
+            {
+                "date": "20230905",
+                "thickness": "0.685"
+            },
+            {
+                "date": "20230912",
+                "thickness": "0.74"
+            },
+            {
+                "date": "20230919",
+                "thickness": "0.695"
+            },
+            {
+                "date": "20230926",
+                "thickness": "0.75"
+            },
+            {
+                "date": "20231003",
+                "thickness": "0.805"
+            },
+            {
+                "date": "20231010",
+                "thickness": "0.34"
+            },
+            {
+                "date": "20231017",
+                "thickness": "0.32"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "66.089"
+            },
+            {
+                "date": "20230829",
+                "height": "66.989"
+            },
+            {
+                "date": "20230905",
+                "height": "67.109"
+            },
+            {
+                "date": "20230912",
+                "height": "68.776"
+            },
+            {
+                "date": "20230919",
+                "height": "70.333"
+            },
+            {
+                "date": "20230926",
+                "height": "72.0"
+            },
+            {
+                "date": "20231003",
+                "height": "73.667"
+            },
+            {
+                "date": "20231010",
+                "height": "73.6"
+            },
+            {
+                "date": "20231017",
+                "height": "68.0"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.2",
+        "Co2": "236",
+        "Quantum": "10",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "25.7",
+        "HighSoilHumi": "37.1",
+        "HighEC": "198",
+        "HighPH": "6.24",
+        "LowSoilTemp": "25.9",
+        "LowSoilHumi": "86.5",
+        "LowSoilEC": "226",
+        "LowSoilPH": "4.46",
+        "AirHumidity": "43.9"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202310221639",
+        "AmtIrrigation": "72"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221639",
+        "ImageSize": "1226120",
+        "ImageName": "N50-A-3-08-L-3-V-231022-000167.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "1080 * 1920",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-3-08-L-3",
+            "plant_name": "보스턴고사리",
+            "plant_polygon": [
+                797,
+                379,
+                748,
+                413,
+                743,
+                447,
+                711,
+                464,
+                686,
+                474,
+                669,
+                523,
+                624,
+                564,
+                589,
+                606,
+                561,
+                637,
+                551,
+                642,
+                561,
+                690,
+                578,
+                720,
+                609,
+                727,
+                648,
+                719,
+                704,
+                685,
+                762,
+                635,
+                797,
+                605,
+                817,
+                551,
+                830,
+                504,
+                839,
+                434,
+                827,
+                398,
+                812,
+                376
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "A-3-08-L-3",
+            "plant_name": "보스턴고사리",
+            "plant_polygon": [
+                494,
+                987,
+                487,
+                1018,
+                464,
+                1060,
+                456,
+                1104,
+                455,
+                1160,
+                465,
+                1246,
+                502,
+                1291,
+                535,
+                1269,
+                547,
+                1252,
+                547,
+                1199,
+                554,
+                1141,
+                550,
+                1091,
+                544,
+                1071,
+                529,
+                1018,
+                510,
+                986
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

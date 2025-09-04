@@ -1,0 +1,167 @@
+{
+    "info": {
+        "GetDateTime": "202308251354",
+        "ClassID": "B-2-12-B-1",
+        "ResultOfGrowthLevel": "High",
+        "Place": "베란다(B)"
+    },
+    "plant": {
+        "PlantName": "오렌지쟈스민",
+        "PlantClass": "중생식물",
+        "RootLength": {
+            "plant": "135",
+            "uproot": "276"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "건조",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "1.278"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "145.134"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "32.8",
+        "Co2": "730",
+        "Quantum": "9",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "32.6",
+        "HighSoilHumi": "19.3",
+        "HighEC": "326.0",
+        "HighPH": "4.48",
+        "LowSoilTemp": "33.3",
+        "LowSoilHumi": "39.7",
+        "LowSoilEC": "389.0",
+        "LowSoilPH": "4.43",
+        "AirHumidity": "42.3"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202308251354",
+        "AmtIrrigation": "69"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202308251354",
+        "ImageSize": "4443500",
+        "ImageName": "N50-B-2-12-B-1-H-230825-000004.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수평(H)"
+    },
+    "annotations": [
+        {
+            "plant_id": "B-2-12-B-1",
+            "plant_name": "오렌지쟈스민",
+            "plant_polygon": [
+                1576,
+                769,
+                1563,
+                766,
+                1565,
+                756,
+                1574,
+                751,
+                1633,
+                750,
+                1640,
+                747,
+                1693,
+                746,
+                1719,
+                749,
+                1752,
+                758,
+                1751,
+                766,
+                1749,
+                772,
+                1740,
+                780,
+                1713,
+                779,
+                1698,
+                783,
+                1689,
+                786,
+                1657,
+                787,
+                1643,
+                789,
+                1627,
+                789,
+                1604,
+                785,
+                1584,
+                776,
+                1578,
+                768
+            ],
+            "plant_polygonTitle": "lateralLeafRight"
+        },
+        {
+            "plant_id": "B-2-12-B-1",
+            "plant_name": "오렌지쟈스민",
+            "plant_polygon": [
+                762,
+                872,
+                751,
+                883,
+                741,
+                905,
+                737,
+                922,
+                737,
+                948,
+                740,
+                969,
+                749,
+                985,
+                759,
+                988,
+                766,
+                989,
+                777,
+                989,
+                779,
+                991,
+                780,
+                991,
+                781,
+                987,
+                784,
+                986,
+                785,
+                977,
+                787,
+                974,
+                791,
+                966,
+                794,
+                948,
+                796,
+                930,
+                795,
+                912,
+                790,
+                898,
+                782,
+                885,
+                775,
+                874
+            ],
+            "plant_polygonTitle": "lateralLeafLeft"
+        }
+    ]
+}

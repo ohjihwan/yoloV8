@@ -1,0 +1,221 @@
+{
+    "info": {
+        "GetDateTime": "202310221656",
+        "ClassID": "B-2-13-L-3",
+        "ResultOfGrowthLevel": "High",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "관음죽",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "150",
+            "uproot": "162"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "7.259"
+            },
+            {
+                "date": "20230829",
+                "thickness": "7.379"
+            },
+            {
+                "date": "20230905",
+                "thickness": "7.379"
+            },
+            {
+                "date": "20230912",
+                "thickness": "7.546"
+            },
+            {
+                "date": "20230919",
+                "thickness": "7.613"
+            },
+            {
+                "date": "20230926",
+                "thickness": "7.78"
+            },
+            {
+                "date": "20231003",
+                "thickness": "7.947"
+            },
+            {
+                "date": "20231010",
+                "thickness": "8.06"
+            },
+            {
+                "date": "20231017",
+                "thickness": "7.89"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "122.823"
+            },
+            {
+                "date": "20230829",
+                "height": "125.723"
+            },
+            {
+                "date": "20230905",
+                "height": "127.843"
+            },
+            {
+                "date": "20230912",
+                "height": "134.932"
+            },
+            {
+                "date": "20230919",
+                "height": "141.911"
+            },
+            {
+                "date": "20230926",
+                "height": "149.0"
+            },
+            {
+                "date": "20231003",
+                "height": "156.089"
+            },
+            {
+                "date": "20231010",
+                "height": "160.1"
+            },
+            {
+                "date": "20231017",
+                "height": "163.4"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.1",
+        "Co2": "235",
+        "Quantum": "11",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "25.7",
+        "HighSoilHumi": "31.3",
+        "HighEC": "190",
+        "HighPH": "4.36",
+        "LowSoilTemp": "26.4",
+        "LowSoilHumi": "73.6",
+        "LowSoilEC": "419",
+        "LowSoilPH": "4.46",
+        "AirHumidity": "45.3"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202310221656",
+        "AmtIrrigation": "76"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221656",
+        "ImageSize": "3750960",
+        "ImageName": "N50-B-2-13-L-3-V-231022-000993.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "B-2-13-L-3",
+            "plant_name": "관음죽",
+            "plant_polygon": [
+                534,
+                747,
+                550,
+                859,
+                595,
+                978,
+                765,
+                1314,
+                891,
+                1520,
+                982,
+                1641,
+                1052,
+                1717,
+                1110,
+                1761,
+                1149,
+                1779,
+                1169,
+                1781,
+                1193,
+                1781,
+                1198,
+                1693,
+                1166,
+                1514,
+                1095,
+                1346,
+                1003,
+                1144,
+                922,
+                996,
+                839,
+                886,
+                747,
+                814,
+                644,
+                774
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "B-2-13-L-3",
+            "plant_name": "관음죽",
+            "plant_polygon": [
+                1221,
+                2066,
+                1201,
+                2152,
+                1259,
+                2379,
+                1355,
+                2662,
+                1438,
+                2849,
+                1484,
+                2958,
+                1522,
+                3016,
+                1582,
+                3076,
+                1600,
+                3066,
+                1638,
+                3046,
+                1681,
+                3011,
+                1688,
+                2960,
+                1688,
+                2897,
+                1661,
+                2798,
+                1590,
+                2609,
+                1590,
+                2609,
+                1504,
+                2417,
+                1405,
+                2220,
+                1327,
+                2111,
+                1249,
+                2063
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

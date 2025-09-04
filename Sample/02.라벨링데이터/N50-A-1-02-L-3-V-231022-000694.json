@@ -1,0 +1,201 @@
+{
+    "info": {
+        "GetDateTime": "202310221606",
+        "ClassID": "A-1-02-L-3",
+        "ResultOfGrowthLevel": "Low",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "선인장",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "90",
+            "uproot": "128"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "41.017"
+            },
+            {
+                "date": "20230829",
+                "thickness": "41.137"
+            },
+            {
+                "date": "20230905",
+                "thickness": "41.137"
+            },
+            {
+                "date": "20230912",
+                "thickness": "42.028"
+            },
+            {
+                "date": "20230919",
+                "thickness": "42.819"
+            },
+            {
+                "date": "20230926",
+                "thickness": "43.71"
+            },
+            {
+                "date": "20231003",
+                "thickness": "44.601"
+            },
+            {
+                "date": "20231010",
+                "thickness": "42.38"
+            },
+            {
+                "date": "20231017",
+                "thickness": "46.1"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "94.961"
+            },
+            {
+                "date": "20230829",
+                "height": "95.861"
+            },
+            {
+                "date": "20230905",
+                "height": "95.981"
+            },
+            {
+                "date": "20230912",
+                "height": "97.024"
+            },
+            {
+                "date": "20230919",
+                "height": "97.957"
+            },
+            {
+                "date": "20230926",
+                "height": "99.0"
+            },
+            {
+                "date": "20231003",
+                "height": "100.043"
+            },
+            {
+                "date": "20231010",
+                "height": "100.0"
+            },
+            {
+                "date": "20231017",
+                "height": "99.92"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.7",
+        "Co2": "228",
+        "Quantum": "9",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "25.0",
+        "HighSoilHumi": "39.9",
+        "HighEC": "200",
+        "HighPH": "4.66",
+        "LowSoilTemp": "25.5",
+        "LowSoilHumi": "65.6",
+        "LowSoilEC": "417",
+        "LowSoilPH": "4.38",
+        "AirHumidity": "41.0"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202310221606",
+        "AmtIrrigation": "125"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221606",
+        "ImageSize": "5127250",
+        "ImageName": "N50-A-1-02-L-3-V-231022-000694.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-1-02-L-3",
+            "plant_name": "선인장",
+            "plant_polygon": [
+                1128,
+                1616,
+                1136,
+                1644,
+                1189,
+                1675,
+                1238,
+                1704,
+                1280,
+                1705,
+                1341,
+                1680,
+                1354,
+                1653,
+                1352,
+                1633,
+                1322,
+                1613,
+                1265,
+                1592,
+                1229,
+                1581,
+                1169,
+                1579,
+                1135,
+                1593
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "A-1-02-L-3",
+            "plant_name": "선인장",
+            "plant_polygon": [
+                1002,
+                1690,
+                962,
+                1729,
+                966,
+                1751,
+                975,
+                1770,
+                1021,
+                1789,
+                1115,
+                1786,
+                1197,
+                1737,
+                1208,
+                1714,
+                1195,
+                1691,
+                1150,
+                1670,
+                1128,
+                1666,
+                1127,
+                1682,
+                1094,
+                1694,
+                1071,
+                1696,
+                1053,
+                1679,
+                1031,
+                1680
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

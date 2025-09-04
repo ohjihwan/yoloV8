@@ -1,0 +1,83 @@
+{
+    "info": {
+        "GetDateTime": "202308231547",
+        "ClassID": "A-3-08-B-1",
+        "ResultOfGrowthLevel": "High",
+        "Place": "베란다(B)"
+    },
+    "plant": {
+        "PlantName": "보스턴고사리",
+        "PlantClass": "습생식물",
+        "GrowthStage": "생장단계",
+        "Environment": "건조",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "0.291"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "53.751"
+            }
+        ],
+        "RootLength": {
+            "plant": "143",
+            "uproot": "128"
+        },
+        "SoilState": null
+    },
+    "sensor": {
+        "AirTemperature": "28.0",
+        "Co2": "1136",
+        "Quantum": "9",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "29.8",
+        "HighSoilHumi": "100.0",
+        "HighEC": "200.0",
+        "HighPH": "7.19",
+        "LowSoilTemp": "29.2",
+        "LowSoilHumi": "100.0",
+        "LowSoilEC": "200.0",
+        "LowSoilPH": "6.68",
+        "AirHumidity": "56.7"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202308231547",
+        "AmtIrrigation": "76"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202308231547",
+        "ImageSize": "4228720",
+        "ImageName": "N50-A-3-08-B-1-H-230823-000070.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수평(H)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-3-08-B-1",
+            "plant_name": "보스턴고사리",
+            "plant_polygon": [
+                131,
+                1679
+            ],
+            "plant_polygonTitle": "lateralLeafLeft"
+        },
+        {
+            "plant_id": "A-3-08-B-1",
+            "plant_name": "보스턴고사리",
+            "plant_polygon": [
+                1349,
+                1809
+            ],
+            "plant_polygonTitle": "lateralLeafRight"
+        }
+    ]
+}

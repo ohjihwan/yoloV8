@@ -1,0 +1,73 @@
+{
+    "info": {
+        "GetDateTime": "202308221625",
+        "ClassID": "A-1-02-B-1",
+        "ResultOfGrowthLevel": "Low",
+        "Place": "베란다(B)"
+    },
+    "plant": {
+        "PlantName": "선인장",
+        "PlantClass": "건생식물",
+        "GrowthStage": "생장단계",
+        "Environment": "건조",
+        "PlantThickness": [],
+        "PlantHeight": [],
+        "RootLength": {
+            "plant": "74",
+            "uproot": "172"
+        },
+        "SoilState": null
+    },
+    "sensor": {
+        "AirTemperature": "31.2",
+        "Co2": "1500",
+        "Quantum": "6",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "30.2",
+        "HighSoilHumi": "78.0",
+        "HighEC": "200.0",
+        "HighPH": "6.96",
+        "LowSoilTemp": "30.9",
+        "LowSoilHumi": "17.0",
+        "LowSoilEC": "439.0",
+        "LowSoilPH": "4.52",
+        "AirHumidity": "41.9"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202308221625",
+        "AmtIrrigation": "65"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202308221625",
+        "ImageSize": "4084720",
+        "ImageName": "N50-A-1-02-B-1-H-230822-000003.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수평(H)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-1-02-B-1",
+            "plant_name": "선인장",
+            "plant_polygon": [
+                672,
+                1114
+            ],
+            "plant_polygonTitle": "lateralLeafLeft"
+        },
+        {
+            "plant_id": "A-1-02-B-1",
+            "plant_name": "선인장",
+            "plant_polygon": [
+                1216,
+                1111
+            ],
+            "plant_polygonTitle": "lateralLeafRight"
+        }
+    ]
+}

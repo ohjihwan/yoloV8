@@ -1,0 +1,187 @@
+{
+    "info": {
+        "GetDateTime": "202310221657",
+        "ClassID": "B-1-11-L-3",
+        "ResultOfGrowthLevel": "DIE",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "올리브나무",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "180",
+            "uproot": "171"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "4.512"
+            },
+            {
+                "date": "20230829",
+                "thickness": "4.632"
+            },
+            {
+                "date": "20230905",
+                "thickness": "4.632"
+            },
+            {
+                "date": "20230912",
+                "thickness": "4.938"
+            },
+            {
+                "date": "20230919",
+                "thickness": "5.144"
+            },
+            {
+                "date": "20230926",
+                "thickness": "5.45"
+            },
+            {
+                "date": "20231003",
+                "thickness": "5.756"
+            },
+            {
+                "date": "20231010",
+                "thickness": "5.64"
+            },
+            {
+                "date": "20231017",
+                "thickness": "5.7"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "256.867"
+            },
+            {
+                "date": "20230829",
+                "height": "257.767"
+            },
+            {
+                "date": "20230905",
+                "height": "257.887"
+            },
+            {
+                "date": "20230912",
+                "height": "245.628"
+            },
+            {
+                "date": "20230919",
+                "height": "269.259"
+            },
+            {
+                "date": "20230926",
+                "height": "275.0"
+            },
+            {
+                "date": "20231003",
+                "height": "275.741"
+            },
+            {
+                "date": "20231010",
+                "height": "265.7"
+            },
+            {
+                "date": "20231017",
+                "height": "251.6"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.1",
+        "Co2": "235",
+        "Quantum": "20",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "24.7",
+        "HighSoilHumi": "36.4",
+        "HighEC": "104",
+        "HighPH": "7.93",
+        "LowSoilTemp": "25.2",
+        "LowSoilHumi": "100.0",
+        "LowSoilEC": "522",
+        "LowSoilPH": "4.38",
+        "AirHumidity": "45.3"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202310221657",
+        "AmtIrrigation": "75"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221657",
+        "ImageSize": "5121760",
+        "ImageName": "N50-B-1-11-L-3-V-231022-003162.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "B-1-11-L-3",
+            "plant_name": "올리브나무",
+            "plant_polygon": [
+                1277,
+                1060,
+                1294,
+                1060,
+                1302,
+                1055,
+                1308,
+                1043,
+                1305,
+                1029,
+                1292,
+                1016,
+                1275,
+                1009,
+                1254,
+                1011,
+                1240,
+                1020,
+                1234,
+                1029,
+                1242,
+                1042,
+                1255,
+                1055
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "B-1-11-L-3",
+            "plant_name": "올리브나무",
+            "plant_polygon": [
+                1549,
+                2764,
+                1544,
+                2780,
+                1557,
+                2791,
+                1579,
+                2799,
+                1624,
+                2796,
+                1646,
+                2788,
+                1660,
+                2769,
+                1635,
+                2761,
+                1596,
+                2762,
+                1562,
+                2757
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

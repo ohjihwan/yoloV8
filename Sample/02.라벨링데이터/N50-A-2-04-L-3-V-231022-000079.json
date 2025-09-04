@@ -1,0 +1,179 @@
+{
+    "info": {
+        "GetDateTime": "202310221635",
+        "ClassID": "A-2-04-L-3",
+        "ResultOfGrowthLevel": "Low",
+        "Place": "거실(L)"
+    },
+    "plant": {
+        "PlantName": "테이블야자",
+        "PlantClass": "건생식물",
+        "RootLength": {
+            "plant": "280",
+            "uproot": "222"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "과습",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "1.922"
+            },
+            {
+                "date": "20230829",
+                "thickness": "2.042"
+            },
+            {
+                "date": "20230905",
+                "thickness": "2.042"
+            },
+            {
+                "date": "20230912",
+                "thickness": "2.408"
+            },
+            {
+                "date": "20230919",
+                "thickness": "2.674"
+            },
+            {
+                "date": "20230926",
+                "thickness": "3.04"
+            },
+            {
+                "date": "20231003",
+                "thickness": "3.406"
+            },
+            {
+                "date": "20231010",
+                "thickness": "5.0"
+            },
+            {
+                "date": "20231017",
+                "thickness": "3.3"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "237.521"
+            },
+            {
+                "date": "20230829",
+                "height": "238.421"
+            },
+            {
+                "date": "20230905",
+                "height": "238.541"
+            },
+            {
+                "date": "20230912",
+                "height": "243.064"
+            },
+            {
+                "date": "20230919",
+                "height": "247.477"
+            },
+            {
+                "date": "20230926",
+                "height": "252.0"
+            },
+            {
+                "date": "20231003",
+                "height": "256.523"
+            },
+            {
+                "date": "20231010",
+                "height": "257.0"
+            },
+            {
+                "date": "20231017",
+                "height": "256.9"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "25.3",
+        "Co2": "234",
+        "Quantum": "19",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "24.9",
+        "HighSoilHumi": "41.3",
+        "HighEC": "222",
+        "HighPH": "4.67",
+        "LowSoilTemp": "25.3",
+        "LowSoilHumi": "76.0",
+        "LowSoilEC": "728",
+        "LowSoilPH": "4.53",
+        "AirHumidity": "43.6"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202310221635",
+        "AmtIrrigation": "125"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202310221635",
+        "ImageSize": "3796620",
+        "ImageName": "N50-A-2-04-L-3-V-231022-000079.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "2160 * 3840",
+        "ShootingAngle": "수직(V)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-2-04-L-3",
+            "plant_name": "테이블야자",
+            "plant_polygon": [
+                963,
+                818,
+                947,
+                872,
+                963,
+                978,
+                1024,
+                1143,
+                1112,
+                1286,
+                1163,
+                1259,
+                1109,
+                1115,
+                1005,
+                880
+            ],
+            "plant_polygonTitle": "upperLeaf"
+        },
+        {
+            "plant_id": "A-2-04-L-3",
+            "plant_name": "테이블야자",
+            "plant_polygon": [
+                991,
+                2625,
+                1079,
+                2789,
+                1196,
+                2949,
+                1317,
+                3049,
+                1378,
+                3067,
+                1401,
+                3069,
+                1436,
+                3053,
+                1434,
+                3030,
+                1255,
+                2862,
+                1082,
+                2668
+            ],
+            "plant_polygonTitle": "lowerLeaf"
+        }
+    ]
+}

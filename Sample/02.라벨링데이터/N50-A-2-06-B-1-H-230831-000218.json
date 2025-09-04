@@ -1,0 +1,153 @@
+{
+    "info": {
+        "GetDateTime": "202308310801",
+        "ClassID": "A-2-06-B-1",
+        "ResultOfGrowthLevel": "High",
+        "Place": "베란다(B)"
+    },
+    "plant": {
+        "PlantName": "호접란",
+        "PlantClass": "중생식물",
+        "RootLength": {
+            "plant": "188",
+            "uproot": "201"
+        },
+        "SoilState": "건조한흙",
+        "GrowthStage": "생장단계",
+        "Environment": "건조",
+        "PlantThickness": [
+            {
+                "date": "20230823",
+                "thickness": "8.404"
+            },
+            {
+                "date": "20230829",
+                "thickness": "8.524"
+            }
+        ],
+        "PlantHeight": [
+            {
+                "date": "20230823",
+                "height": "40.419"
+            },
+            {
+                "date": "20230829",
+                "height": "45.319"
+            }
+        ]
+    },
+    "sensor": {
+        "AirTemperature": "27.2",
+        "Co2": "293",
+        "Quantum": "9",
+        "SupplyEC": "1.5",
+        "SupplyPH": "7",
+        "HighSoilTemp": "28.2",
+        "HighSoilHumi": "50.2",
+        "HighEC": "1518.0",
+        "HighPH": "4.38",
+        "LowSoilTemp": "28.2",
+        "LowSoilHumi": "47.3",
+        "LowSoilEC": "345.0",
+        "LowSoilPH": "4.44",
+        "AirHumidity": "68.1"
+    },
+    "watering": {
+        "IrrigationState": "관수중",
+        "WateringTime": "202308310801",
+        "AmtIrrigation": "77"
+    },
+    "picInfo": {
+        "ImageType": "jpg",
+        "PhotographerID": "USERID",
+        "ImageTakeDT": "202308310801",
+        "ImageSize": "814229",
+        "ImageName": "N50-A-2-06-B-1-H-230831-000218.jpg",
+        "FilmingLocation": "37.499035,127.025597",
+        "ShootingDistance": "26",
+        "ImageResolution": "1080 * 1920",
+        "ShootingAngle": "수평(H)"
+    },
+    "annotations": [
+        {
+            "plant_id": "A-2-06-B-1",
+            "plant_name": "호접란",
+            "plant_polygon": [
+                443,
+                1333,
+                443,
+                1342,
+                453,
+                1362,
+                463,
+                1373,
+                485,
+                1342,
+                504,
+                1326,
+                522,
+                1319,
+                538,
+                1323,
+                550,
+                1331,
+                570,
+                1326,
+                601,
+                1327,
+                642,
+                1342,
+                623,
+                1323,
+                604,
+                1319,
+                556,
+                1306,
+                542,
+                1307,
+                523,
+                1310,
+                452,
+                1327
+            ],
+            "plant_polygonTitle": "lateralLeafLeft"
+        },
+        {
+            "plant_id": "A-2-06-B-1",
+            "plant_name": "호접란",
+            "plant_polygon": [
+                688,
+                1360,
+                732,
+                1384,
+                846,
+                1264,
+                900,
+                1178,
+                919,
+                1129,
+                919,
+                1083,
+                922,
+                1079,
+                912,
+                1064,
+                907,
+                1082,
+                887,
+                1092,
+                863,
+                1116,
+                806,
+                1202,
+                758,
+                1297,
+                737,
+                1319,
+                715,
+                1329
+            ],
+            "plant_polygonTitle": "lateralLeafRight"
+        }
+    ]
+}
