@@ -1,7 +1,0 @@
-path: ./Sample
-
-train: images/train
-val: images/val
-
-names:
-  0: leaf
